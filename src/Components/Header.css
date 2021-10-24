@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    align-items: center;
+    z-index: 100;
+    border-bottom: 1px solid #f9f9f9;
+}
+
+
+.header__logo {
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+}

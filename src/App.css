@@ -13,6 +13,37 @@
   }
 }
 
+.form {
+  padding-top: 400px;
+}
+
+.inline-buttons {
+  display: inline-block;
+}
+
+.dagner {
+  padding-left: 20px;
+}
+
+h2 {
+  display:block;
+  padding-left: 40px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  display: inline-block;
+}
+
+iframe {
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+}
+h4 {
+  text-justify: auto;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
